@@ -36,6 +36,14 @@ cd artist-release-promo-generator
 npm install
 npm run dev
 
+## 🧑‍💼 Why this README works (important)
+This does **not** read like:
+> “I’m learning Next.js”
+
+It reads like:
+> “I identified a workflow problem in music marketing and built a tool.”
+
+That’s the mindset labels and arts orgs want.
 ---
 
 Built by Alex Webster
