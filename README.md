@@ -36,3 +36,6 @@ cd artist-release-promo-generator
 npm install
 npm run dev
 
+---
+
+Built by Alex Webster
